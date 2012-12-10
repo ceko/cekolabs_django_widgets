@@ -1,1 +1,2 @@
 v.1, 2012-12-8 -- Initial release.
+v.1.1, 2012-12-9 -- Added tag widget and a dependency for markdown.
