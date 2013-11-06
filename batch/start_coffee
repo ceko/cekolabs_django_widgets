@@ -1,0 +1,2 @@
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+coffee --watch --compile $DIR/../cekolabs_django_widgets/static/js/cekolabs_django_widgets
